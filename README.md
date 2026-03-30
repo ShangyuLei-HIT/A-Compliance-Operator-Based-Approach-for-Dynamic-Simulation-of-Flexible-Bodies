@@ -54,14 +54,6 @@
 
 ![有限元接触合力](images/gear_rack_fem_force.png)
 
-**仿真网格结果**
-
-![仿真网格](images/gear_rack_mesh_result.png)
-
-**应力云图**
-
-![应力云图](images/gear_rack_stress_result.png)
-
 ### 3 数据统计
 
 |  | 生成模态数据 | 模型训练 | 仿真总耗时 | 神经网络查询耗时 |
